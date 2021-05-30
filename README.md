@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Chào mừng bạn đến với DOC (Dream Of City)
 
 You can use the [editor on GitHub](https://github.com/uaazaajkaa/doc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
